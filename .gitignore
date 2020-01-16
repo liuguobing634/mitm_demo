@@ -1,0 +1,8 @@
+/download/**
+/input/*
+/output/*
+/video_info/*
+/.idea/*
+/.idea/**
+/.idea/video-handler.iml
+/.idea/vcs.xml
